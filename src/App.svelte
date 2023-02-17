@@ -1,7 +1,7 @@
 <script>
 	// @ts-nocheck
 
-	import { data } from "./assets/data";
+	import { data } from "../public/assets/data";
 
 	let flag = true;
 	let dataLang = data.es;
@@ -30,11 +30,11 @@
 		}}
 	>
 		<div class="project__body">
-			<span class="toggle-label">{langDescription}</span>
+			<strong class="toggle-label">{langDescription}</strong>
 		</div>
 	</button>
 	<section class="marvel__intro">
-		<h1 class="">
+		<h1 style="margin-top: 35px;">
 			{dataLang.titulo}
 			<span class="t__marker">{dataLang.nombreCorto}</span>
 			<span class="wave">👋</span>
@@ -62,28 +62,28 @@
 		/>
 		<div class="marvel__flex">
 			<img
-				src="/src/assets/imgs/tools/tool_01.png"
+				src="/cv/assets/imgs/tools/tool_01.png"
 				alt="JAVASCRIPT ICON"
 				class="marvel__card slow_shake_it"
 			/>
 			<img
-				src="/src/assets/imgs/tools/tool_03.png"
+				src="/cv/assets/imgs/tools/tool_03.png"
 				alt="JAVASCRIPT ICON"
 				class="marvel__card slow_shake_it"
 			/>
 			<img
-				src="/src/assets/imgs/tools/tool_04.png"
+				src="/cv/assets/imgs/tools/tool_04.png"
 				alt="FIGMA ICON"
 				class="marvel__card slow_shake_it"
 			/>
 
 			<img
-				src="/src/assets/imgs/tools/tool_05.png"
+				src="/cv/assets/imgs/tools/tool_05.png"
 				alt="FIGMA ICON"
 				class="marvel__card slow_shake_it"
 			/>
 			<img
-				src="/src/assets/imgs/tools/tool_06.png"
+				src="/cv/assets/imgs/tools/tool_06.png"
 				alt="JAVASCRIPT ICON"
 				class="marvel__card slow_shake_it"
 			/>
@@ -144,7 +144,7 @@
 
 	<section class="marvel__section">
 		<h2>
-			<span class="t__marker"> {dataLang.contacto.contacto}</span>
+			<span class="t__marker">{dataLang.contacto.contacta}</span>
 			{dataLang.contacto.me}
 		</h2>
 		<p>

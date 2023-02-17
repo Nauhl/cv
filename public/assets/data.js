@@ -37,7 +37,7 @@ export let data = {
                 },
                 {
                     titulo: "Desarrollador Fullstack",
-                    logo: "src/assets/imgs/pbs.png",
+                    logo: "/cv/assets/imgs/pbs.png",
                     backgroundColor: "",
                     empresa: "Proper Business Solutions",
                     tiempo: "Agosto 2020 - Octubre 2021",
@@ -47,7 +47,7 @@ export let data = {
                 },
                 {
                     titulo: "Desarrollador Frontend",
-                    logo: "src/assets/imgs/itesm.png",
+                    logo: "/cv/assets/imgs/itesm.png",
                     backgroundColor: "",
                     empresa: "Tecnológico de Monterrey",
                     tiempo: "Diciembre 2021 - Actual",
@@ -70,7 +70,7 @@ export let data = {
             mi: "Me",
             contenido: `<p>Hi <span class="wave">👋</span>, My name is
             <span class="t__uva">Martin</span> and I am a
-            <span class="t__bold t__uva">Software Engineer 🧑🏽‍💻</span> oriented to mainly web solutions with more than 3 years of experience in freelance and startup.</p>`
+            <span class="t__bold t__uva">Software Engineer 🧑🏽‍💻</span> oriented to mainly web solutions with more than 4 years of experience in the area.</p>`
         },
         techStack: {
             tech: 'Tech',
@@ -100,7 +100,7 @@ export let data = {
                 },
                 {
                     titulo: "Fullstack Developer",
-                    logo: "src/assets/imgs/pbs.png",
+                    logo: "/cv/assets/imgs/pbs.png",
                     backgroundColor: "",
                     empresa: "Proper Business Solutions",
                     tiempo: "August 2020 - October 2021",
@@ -109,7 +109,7 @@ export let data = {
                 },
                 {
                     titulo: "Frontend Developer",
-                    logo: "src/assets/imgs/itesm.png",
+                    logo: "/cv/assets/imgs/itesm.png",
                     backgroundColor: "",
                     empresa: "Tecnológico de Monterrey",
                     tiempo: "December 2021 - Now",

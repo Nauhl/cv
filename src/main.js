@@ -1,5 +1,5 @@
 // import './app.css'
-import './assets/styles.css'
+import '../public/assets/styles.css'
 // @ts-ignore
 import App from './App.svelte';
 
