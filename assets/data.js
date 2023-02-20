@@ -69,7 +69,7 @@ export let data = {
             de: "About",
             mi: "Me",
             contenido: `<p>Hi <span class="wave">👋</span>, My name is
-            <span class="t__uva">Martin</span> and I am a
+            <span class="t__uva">Horacio Zorola</span> and I am a
             <span class="t__bold t__uva">Software Engineer 🧑🏽‍💻</span> oriented to mainly web solutions with more than 4 years of experience in the area.</p>`
         },
         techStack: {
